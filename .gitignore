@@ -484,3 +484,5 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/reactivities.db
+API/obj/Debug/net9.0/API.AssemblyInfo.cs
+API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache
