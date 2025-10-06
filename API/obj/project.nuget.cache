@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpWH4scaUxA=",
+  "dgSpecHash": "wXbSKaIIGcw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\melly\\OneDrive\\Desktop\\WGU\\UdemyCourses\\React.NetCore\\demo\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\melly\\OneDrive\\Desktop\\WGU\\UdemyCourses\\React.NetCore\\Reactivities\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melly\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\melly\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

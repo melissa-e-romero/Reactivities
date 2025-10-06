@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "34T8vNmIF9w=",
+  "dgSpecHash": "LrSXEOWG1Ks=",
   "success": true,
-  "projectFilePath": "C:\\Users\\melly\\OneDrive\\Desktop\\WGU\\UdemyCourses\\React.NetCore\\demo\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\melly\\OneDrive\\Desktop\\WGU\\UdemyCourses\\React.NetCore\\Reactivities\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melly\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
     "C:\\Users\\melly\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.9\\microsoft.entityframeworkcore.9.0.9.nupkg.sha512",
